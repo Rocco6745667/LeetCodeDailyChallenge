@@ -1,2 +1,2 @@
 # LeetCodeDailyChallenge
- This has the answers for previous leet code daily challenges
+ This has the answers for the leet code daily challeges using python
